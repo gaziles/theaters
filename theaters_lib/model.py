@@ -1,7 +1,6 @@
 theaters: list = [
 
 
-
     {
         'name': 'Teatr Muzyczny Roma',
         'location': 'Warszawa',
